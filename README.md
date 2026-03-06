@@ -37,7 +37,7 @@
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>hostname
 which hostname
-/bin/hostname</code></pre>
+/usr/bin/hostname</code></pre>
 
 
 
@@ -170,7 +170,7 @@ print your hostname</code></pre>
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>hostname
 which hostname
-/bin/hostname</code></pre>
+/usr/bin/hostname</code></pre>
 
 
 
